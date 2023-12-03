@@ -70,4 +70,3 @@ Using Python to Access Web Data free download,
 Using Python to Access Web Data Michigan,
 
 Using Python to Access Web Data Solutions
-
